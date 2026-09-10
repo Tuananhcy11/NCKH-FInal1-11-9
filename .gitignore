@@ -1,0 +1,14 @@
+# Cache và tệp tạm
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dữ liệu người dùng nạp vào — không đưa lên git
+data/
+*.parquet
+
+# Nhật ký chạy
+*.log
+
+# Tệp tạm của Office
+~$*
